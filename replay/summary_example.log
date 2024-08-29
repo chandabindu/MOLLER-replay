@@ -1,0 +1,26 @@
+==== Wed Aug 28 16:47:39 2024 Started analysis, run 918
+Reading from "file:///lustre24/expphy/volatile/halla/moller12gev/chandan/datafile/ssp_gem_apv_test_918.evio.0"
+End of file.
+==== Wed Aug 28 16:49:38 2024 Summary for run 918
+Counter summary:
+7354  events read
+7354  events decoded
+7352  physics events
+   2  other event types
+7352  physics events analyzed
+7354  events accepted
+
+Timing summary:
+Init             : Real Time =   0.98 seconds Cpu Time =   0.53 seconds
+Begin            : Real Time =   0.06 seconds Cpu Time =   0.05 seconds
+RawDecode        : Real Time =  10.91 seconds Cpu Time =  10.40 seconds
+Decode           : Real Time = 100.14 seconds Cpu Time = 100.03 seconds
+CoarseTracking   : Real Time =   1.29 seconds Cpu Time =   1.35 seconds
+CoarseReconstruct: Real Time =   0.01 seconds Cpu Time =   0.02 seconds
+Tracking         : Real Time =   0.01 seconds Cpu Time =   0.00 seconds
+Reconstruct      : Real Time =   0.01 seconds Cpu Time =   0.00 seconds
+Physics          : Real Time =   0.01 seconds Cpu Time =   0.00 seconds
+End              : Real Time =   0.55 seconds Cpu Time =   0.53 seconds
+Output           : Real Time =   5.58 seconds Cpu Time =   4.53 seconds
+Cuts             : Real Time =   0.05 seconds Cpu Time =   0.03 seconds
+Total            : Real Time = 119.69 seconds Cpu Time = 117.52 seconds
